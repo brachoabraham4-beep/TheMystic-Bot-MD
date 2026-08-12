@@ -6,6 +6,9 @@
   "scripts": {
     "start": "node index.js"
   },
+  "engines": {
+    "node": ">=18.0.0"
+  },
   "dependencies": {
     "@whiskeysockets/baileys": "latest",
     "axios": "latest",
@@ -22,4 +25,3 @@
     "ws": "latest"
   }
 }
-"engines": { "node": ">=18.0.0" }
