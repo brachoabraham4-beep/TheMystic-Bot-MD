@@ -1,0 +1,24 @@
+{
+  "name": "the-mystic-bot-md",
+  "version": "4.5.0",
+  "description": "WhatsApp Bot Multi Device",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "latest",
+    "axios": "latest",
+    "chalk": "4.1.2",
+    "cheerio": "latest",
+    "form-data": "latest",
+    "jimp": "latest",
+    "lowdb": "1.0.0",
+    "moment-timezone": "latest",
+    "mongoose": "latest",
+    "node-fetch": "2.7.0",
+    "qrcode": "latest",
+    "pino": "latest",
+    "ws": "latest"
+  }
+}
