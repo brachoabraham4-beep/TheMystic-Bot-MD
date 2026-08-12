@@ -1,0 +1,5 @@
+[providers]
+node = "20"
+
+[phases.install]
+cmds = ["npm install --legacy-peer-deps"]
