@@ -39,7 +39,8 @@ import {
 
 import { initializeSubBots } from './src/libraries/subBotManager.js';
 
-import { Low, JSONFile } from 'lowdb';
+import { Low } from 'lowdb';
+import { JSONFile } from 'lowdb/node';
 
 import store from './src/libraries/store.js';
 import LidResolver from './src/libraries/LidResolver.js';
