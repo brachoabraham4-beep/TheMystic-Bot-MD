@@ -26,6 +26,7 @@
     "qrcode": "latest",
     "pino": "latest",
     "syntax-error": "latest",
+    "awesome-phonenumber": "latest",
     "ws": "latest"
   }
 }
