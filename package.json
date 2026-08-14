@@ -12,7 +12,6 @@
   },
   "dependencies": {
     "@whiskeysockets/baileys": "latest",
-    "baileys": "npm:@whiskeysockets/baileys@latest",
     "axios": "latest",
     "awesome-phonenumber": "latest",
     "chalk": "4.1.2",
