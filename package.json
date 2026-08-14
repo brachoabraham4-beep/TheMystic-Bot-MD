@@ -19,6 +19,7 @@
     "cheerio": "latest",
     "form-data": "latest",
     "jimp": "latest",
+    "lodash": "^4.17.21",
     "lowdb": "^7.0.1",
     "md5": "latest",
     "moment-timezone": "latest",
