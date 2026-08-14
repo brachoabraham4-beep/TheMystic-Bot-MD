@@ -1,16 +1,28 @@
-"dependencies": {
-  "@whiskeysockets/baileys": "latest",
-  "axios": "latest",
-  "chalk": "4.1.2",
-  "cfonts": "^3.3.1",
-  "cheerio": "latest",
-  "form-data": "latest",
-  "jimp": "latest",
-  "lowdb": "1.0.0",
-  "moment-timezone": "latest",
-  "mongoose": "latest",
-  "node-fetch": "2.7.0",
-  "qrcode": "latest",
-  "pino": "latest",
-  "ws": "latest"
+{
+  "name": "the-mystic-bot-md",
+  "version": "4.5.0",
+  "description": "WhatsApp Bot Multi Device",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "latest",
+    "axios": "latest",
+    "chalk": "4.1.2",
+    "cfonts": "^3.3.1",
+    "cheerio": "latest",
+    "form-data": "latest",
+    "jimp": "latest",
+    "lowdb": "1.0.0",
+    "moment-timezone": "latest",
+    "mongoose": "latest",
+    "node-fetch": "2.7.0",
+    "qrcode": "latest",
+    "pino": "latest",
+    "ws": "latest"
+  }
 }
