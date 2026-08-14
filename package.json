@@ -21,6 +21,7 @@
     "lowdb": "1.0.0",
     "moment-timezone": "latest",
     "mongoose": "latest",
+    "node-cache": "latest",
     "node-fetch": "2.7.0",
     "qrcode": "latest",
     "pino": "latest",
