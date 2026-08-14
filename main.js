@@ -52,7 +52,7 @@ const {
   makeCacheableSignalKeyStore,
   jidNormalizedUser,
   PHONENUMBER_MCC
-} = await import('baileys');
+} = await import('@whiskeysockets/baileys');
 
 import readline from 'readline';
 import NodeCache from 'node-cache';
