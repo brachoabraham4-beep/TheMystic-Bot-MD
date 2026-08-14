@@ -21,8 +21,8 @@ import store from "./store.js";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
-/**
- * @type {import("@whiskeysockets/baileys")}
+/**/
+* @type {import("@whiskeysockets/baileys")}
  */
 const {
     default: _makeWaSocket,
@@ -41,11 +41,11 @@ const {
     prepareWAMessageMedia,
     WA_DEFAULT_EPHEMERAL,
     PHONENUMBER_MCC,
-} = (await import("baileys")).default;
+} = (await import("@whiskeysockets/baileys")).default;
 
 export function makeWASocket(connectionOptions, options = {}) {
     /**
-     * @type {import("baileys").WASocket | import("baileys").WALegacySocket}
+     import("@whiskeysockets/baileys")
      */
     const conn = (global.opts["legacy"] ? makeWALegacySocket : _makeWaSocket)(
         connectionOptions,
