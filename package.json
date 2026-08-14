@@ -13,20 +13,21 @@
   "dependencies": {
     "@whiskeysockets/baileys": "latest",
     "axios": "latest",
+    "awesome-phonenumber": "latest",
     "chalk": "4.1.2",
     "cfonts": "^3.3.1",
     "cheerio": "latest",
     "form-data": "latest",
     "jimp": "latest",
     "lowdb": "1.0.0",
+    "md5": "latest",
     "moment-timezone": "latest",
     "mongoose": "latest",
     "node-cache": "latest",
     "node-fetch": "2.7.0",
-    "qrcode": "latest",
     "pino": "latest",
+    "qrcode": "latest",
     "syntax-error": "latest",
-    "awesome-phonenumber": "latest",
     "ws": "latest"
   }
 }
