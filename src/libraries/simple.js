@@ -22,7 +22,7 @@ import store from "./store.js";
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
 /**/
-* @type {import("@whiskeysockets/baileys")}
+
  */
 const {
     default: _makeWaSocket,
