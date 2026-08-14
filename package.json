@@ -3,6 +3,7 @@
   "version": "4.5.0",
   "description": "WhatsApp Bot Multi Device",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "start": "node index.js"
   },
@@ -23,6 +24,7 @@
     "node-fetch": "2.7.0",
     "qrcode": "latest",
     "pino": "latest",
+    "syntax-error": "latest",
     "ws": "latest"
   }
 }
