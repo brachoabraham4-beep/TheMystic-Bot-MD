@@ -19,7 +19,7 @@
     "cheerio": "latest",
     "form-data": "latest",
     "jimp": "latest",
-    "lowdb": "1.0.0",
+    "lowdb": "^7.0.1",
     "md5": "latest",
     "moment-timezone": "latest",
     "mongoose": "latest",
